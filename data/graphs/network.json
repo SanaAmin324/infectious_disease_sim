@@ -1,0 +1,2206 @@
+{
+    "nodes": [
+        {
+            "id": 0,
+            "status": "healthy",
+            "position": [
+                417.0,
+                33.0
+            ],
+            "velocity": [
+                -0.9731685601990672,
+                0.6749457782156738
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 1,
+            "status": "healthy",
+            "position": [
+                558.0,
+                300.0
+            ],
+            "velocity": [
+                -0.15154330559662976,
+                -0.9405149150644483
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 2,
+            "status": "healthy",
+            "position": [
+                145.0,
+                228.0
+            ],
+            "velocity": [
+                -0.6488342594960033,
+                0.9349849880785834
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 3,
+            "status": "healthy",
+            "position": [
+                661.0,
+                606.0
+            ],
+            "velocity": [
+                0.24489854583489956,
+                0.45312568961919353
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 4,
+            "status": "healthy",
+            "position": [
+                334.0,
+                33.0
+            ],
+            "velocity": [
+                -0.8497738717166674,
+                -0.5672405524411399
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 5,
+            "status": "healthy",
+            "position": [
+                779.0,
+                281.0
+            ],
+            "velocity": [
+                -0.6394389556758089,
+                -0.7402159654838771
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 6,
+            "status": "healthy",
+            "position": [
+                139.0,
+                164.0
+            ],
+            "velocity": [
+                -0.19308165755747808,
+                -0.3183701563968371
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 7,
+            "status": "healthy",
+            "position": [
+                194.0,
+                577.0
+            ],
+            "velocity": [
+                -0.08314823022635176,
+                -0.8597016754605331
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 8,
+            "status": "healthy",
+            "position": [
+                711.0,
+                758.0
+            ],
+            "velocity": [
+                -0.7840918956167708,
+                -0.42851118295823776
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 9,
+            "status": "healthy",
+            "position": [
+                146.0,
+                21.0
+            ],
+            "velocity": [
+                0.6207935043023172,
+                -0.37644490524036134
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 10,
+            "status": "healthy",
+            "position": [
+                716.0,
+                745.0
+            ],
+            "velocity": [
+                -0.11165122872384692,
+                0.6429948241594723
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 11,
+            "status": "healthy",
+            "position": [
+                71.0,
+                343.0
+            ],
+            "velocity": [
+                0.1492218083064245,
+                -0.5003827243811232
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 12,
+            "status": "healthy",
+            "position": [
+                618.0,
+                698.0
+            ],
+            "velocity": [
+                0.6690742159193208,
+                -0.7559129474510955
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 13,
+            "status": "healthy",
+            "position": [
+                572.0,
+                14.0
+            ],
+            "velocity": [
+                0.17118306951573592,
+                0.1172826724989513
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 14,
+            "status": "healthy",
+            "position": [
+                445.0,
+                576.0
+            ],
+            "velocity": [
+                -0.07893995340904425,
+                -0.34159833095295244
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 15,
+            "status": "healthy",
+            "position": [
+                83.0,
+                686.0
+            ],
+            "velocity": [
+                -0.7726383164718382,
+                -0.6365465513307655
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 16,
+            "status": "healthy",
+            "position": [
+                257.0,
+                733.0
+            ],
+            "velocity": [
+                0.38352475574076106,
+                -0.525149234541336
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 17,
+            "status": "healthy",
+            "position": [
+                561.0,
+                531.0
+            ],
+            "velocity": [
+                -0.11903263412064047,
+                0.0489545924914907
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 18,
+            "status": "healthy",
+            "position": [
+                114.0,
+                797.0
+            ],
+            "velocity": [
+                0.40503084893408037,
+                0.6198958717116907
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 19,
+            "status": "healthy",
+            "position": [
+                548.0,
+                410.0
+            ],
+            "velocity": [
+                -0.8105238215496418,
+                0.6111194367341304
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 20,
+            "status": "healthy",
+            "position": [
+                187.0,
+                449.0
+            ],
+            "velocity": [
+                0.5739340715284014,
+                -0.7794945494281806
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 21,
+            "status": "healthy",
+            "position": [
+                362.0,
+                361.0
+            ],
+            "velocity": [
+                0.790638893404711,
+                -0.1997338372402473
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 22,
+            "status": "healthy",
+            "position": [
+                362.0,
+                203.0
+            ],
+            "velocity": [
+                -0.4056785382606032,
+                0.9475523131507362
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 23,
+            "status": "healthy",
+            "position": [
+                616.0,
+                333.0
+            ],
+            "velocity": [
+                0.35392781053710665,
+                0.15573780302435525
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 24,
+            "status": "healthy",
+            "position": [
+                112.0,
+                499.0
+            ],
+            "velocity": [
+                0.01971487935633931,
+                -0.7244670047485535
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 25,
+            "status": "healthy",
+            "position": [
+                520.0,
+                720.0
+            ],
+            "velocity": [
+                0.2561860831924907,
+                -0.9413972537610578
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 26,
+            "status": "healthy",
+            "position": [
+                492.0,
+                93.0
+            ],
+            "velocity": [
+                -0.27255100748773886,
+                0.021631208105338473
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 27,
+            "status": "healthy",
+            "position": [
+                772.0,
+                737.0
+            ],
+            "velocity": [
+                0.9338984927937297,
+                0.5904815892462365
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 28,
+            "status": "healthy",
+            "position": [
+                484.0,
+                539.0
+            ],
+            "velocity": [
+                0.8632633292826244,
+                0.6156054144957088
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 29,
+            "status": "healthy",
+            "position": [
+                243.0,
+                471.0
+            ],
+            "velocity": [
+                -0.23997919840929938,
+                -0.6796095122732713
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 30,
+            "status": "healthy",
+            "position": [
+                542.0,
+                387.0
+            ],
+            "velocity": [
+                0.1583347876247807,
+                0.7806489971721073
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 31,
+            "status": "healthy",
+            "position": [
+                461.0,
+                712.0
+            ],
+            "velocity": [
+                -0.07174802443257389,
+                -0.8822127965768809
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 32,
+            "status": "healthy",
+            "position": [
+                624.0,
+                373.0
+            ],
+            "velocity": [
+                -0.9075060350347144,
+                -0.27358351662462854
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 33,
+            "status": "healthy",
+            "position": [
+                336.0,
+                566.0
+            ],
+            "velocity": [
+                -0.33802804903366224,
+                -0.09801556424928037
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 34,
+            "status": "healthy",
+            "position": [
+                541.0,
+                209.0
+            ],
+            "velocity": [
+                -0.14552823198351095,
+                -0.5421744581028511
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 35,
+            "status": "healthy",
+            "position": [
+                451.0,
+                398.0
+            ],
+            "velocity": [
+                0.6170478355174376,
+                -0.877041263078219
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 36,
+            "status": "healthy",
+            "position": [
+                499.0,
+                442.0
+            ],
+            "velocity": [
+                -0.08613019870448091,
+                -0.9917803900381428
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 37,
+            "status": "healthy",
+            "position": [
+                148.0,
+                514.0
+            ],
+            "velocity": [
+                0.8402197469485737,
+                -0.7709434756489195
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 38,
+            "status": "healthy",
+            "position": [
+                71.0,
+                455.0
+            ],
+            "velocity": [
+                0.09293787422524513,
+                0.5562680373624416
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 39,
+            "status": "healthy",
+            "position": [
+                252.0,
+                434.0
+            ],
+            "velocity": [
+                0.7375210355735322,
+                -0.3677058314265991
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 40,
+            "status": "healthy",
+            "position": [
+                603.0,
+                707.0
+            ],
+            "velocity": [
+                0.02485330895989879,
+                0.29488398725813747
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 41,
+            "status": "healthy",
+            "position": [
+                742.0,
+                795.0
+            ],
+            "velocity": [
+                0.9469496594874032,
+                0.37396894541694725
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 42,
+            "status": "healthy",
+            "position": [
+                725.0,
+                30.0
+            ],
+            "velocity": [
+                0.35878315994583043,
+                -0.08644954355746393
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 43,
+            "status": "healthy",
+            "position": [
+                70.0,
+                201.0
+            ],
+            "velocity": [
+                -0.5955349968138994,
+                0.24010954597253154
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 44,
+            "status": "healthy",
+            "position": [
+                572.0,
+                579.0
+            ],
+            "velocity": [
+                -0.3548825781144862,
+                0.9580485734738913
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 45,
+            "status": "healthy",
+            "position": [
+                705.0,
+                697.0
+            ],
+            "velocity": [
+                -0.375658514181475,
+                -0.14469132636068727
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 46,
+            "status": "healthy",
+            "position": [
+                612.0,
+                314.0
+            ],
+            "velocity": [
+                -0.609582296547152,
+                0.7579656808100332
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 47,
+            "status": "healthy",
+            "position": [
+                647.0,
+                708.0
+            ],
+            "velocity": [
+                -0.7758430112278663,
+                -0.0681859269079137
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 48,
+            "status": "healthy",
+            "position": [
+                405.0,
+                463.0
+            ],
+            "velocity": [
+                0.5154882234105655,
+                -0.5476155677791454
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 49,
+            "status": "healthy",
+            "position": [
+                236.0,
+                557.0
+            ],
+            "velocity": [
+                -0.4489312040372777,
+                -0.19908018631793634
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 50,
+            "status": "healthy",
+            "position": [
+                744.0,
+                460.0
+            ],
+            "velocity": [
+                0.4315728946610018,
+                -0.8120916062964114
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 51,
+            "status": "healthy",
+            "position": [
+                185.0,
+                39.0
+            ],
+            "velocity": [
+                0.5626827506429184,
+                -0.4451877529227166
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 52,
+            "status": "healthy",
+            "position": [
+                456.0,
+                414.0
+            ],
+            "velocity": [
+                0.20050264526675265,
+                -0.134793084280864
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 53,
+            "status": "healthy",
+            "position": [
+                590.0,
+                532.0
+            ],
+            "velocity": [
+                0.385504449325071,
+                0.8696172873204164
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 54,
+            "status": "healthy",
+            "position": [
+                321.0,
+                290.0
+            ],
+            "velocity": [
+                0.8251532929581464,
+                -0.5113486050003535
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 55,
+            "status": "healthy",
+            "position": [
+                393.0,
+                697.0
+            ],
+            "velocity": [
+                -0.9077244588322513,
+                -0.45293727971109177
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 56,
+            "status": "healthy",
+            "position": [
+                561.0,
+                59.0
+            ],
+            "velocity": [
+                0.16186127875924883,
+                -0.06665700580537792
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 57,
+            "status": "healthy",
+            "position": [
+                260.0,
+                57.0
+            ],
+            "velocity": [
+                0.39548645029705676,
+                0.6642798760599316
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 58,
+            "status": "healthy",
+            "position": [
+                343.0,
+                131.0
+            ],
+            "velocity": [
+                0.04508227453988267,
+                -0.3236303188844174
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 59,
+            "status": "healthy",
+            "position": [
+                652.0,
+                353.0
+            ],
+            "velocity": [
+                -0.04017228117043414,
+                -0.9152745997994904
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 60,
+            "status": "healthy",
+            "position": [
+                169.0,
+                104.0
+            ],
+            "velocity": [
+                -0.7827476274027518,
+                -0.15309863122135536
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 61,
+            "status": "healthy",
+            "position": [
+                51.0,
+                593.0
+            ],
+            "velocity": [
+                0.4951379368673987,
+                0.03851183197502417
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 62,
+            "status": "healthy",
+            "position": [
+                330.0,
+                343.0
+            ],
+            "velocity": [
+                -0.39616574752282174,
+                -0.11848871587356347
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 63,
+            "status": "healthy",
+            "position": [
+                358.0,
+                80.0
+            ],
+            "velocity": [
+                0.8675325275981394,
+                -0.5609511582569122
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 64,
+            "status": "healthy",
+            "position": [
+                299.0,
+                349.0
+            ],
+            "velocity": [
+                0.8394213850431085,
+                0.04799120438800775
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 65,
+            "status": "healthy",
+            "position": [
+                550.0,
+                167.0
+            ],
+            "velocity": [
+                0.6808164549339184,
+                -0.8152663402936298
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 66,
+            "status": "healthy",
+            "position": [
+                139.0,
+                745.0
+            ],
+            "velocity": [
+                -0.30632042548209526,
+                -0.0410267850381516
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 67,
+            "status": "healthy",
+            "position": [
+                562.0,
+                536.0
+            ],
+            "velocity": [
+                0.5607533556696742,
+                0.2882859275551106
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 68,
+            "status": "healthy",
+            "position": [
+                659.0,
+                306.0
+            ],
+            "velocity": [
+                -0.6025713659042469,
+                0.2681028088471247
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 69,
+            "status": "healthy",
+            "position": [
+                410.0,
+                49.0
+            ],
+            "velocity": [
+                0.5147313453057303,
+                0.9617576077303205
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 70,
+            "status": "healthy",
+            "position": [
+                547.0,
+                563.0
+            ],
+            "velocity": [
+                -0.6842918035988805,
+                -0.12610563528766328
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 71,
+            "status": "healthy",
+            "position": [
+                775.0,
+                543.0
+            ],
+            "velocity": [
+                -0.029851473769529235,
+                0.4750438194537816
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 72,
+            "status": "healthy",
+            "position": [
+                42.0,
+                61.0
+            ],
+            "velocity": [
+                -0.03636729726130139,
+                -0.01708139122506669
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 73,
+            "status": "healthy",
+            "position": [
+                592.0,
+                271.0
+            ],
+            "velocity": [
+                -0.38492326766182927,
+                -0.17996387718846707
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 74,
+            "status": "healthy",
+            "position": [
+                684.0,
+                346.0
+            ],
+            "velocity": [
+                -0.3867912428755711,
+                -0.8060220036717818
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 75,
+            "status": "healthy",
+            "position": [
+                781.0,
+                397.0
+            ],
+            "velocity": [
+                -0.07444444389238858,
+                -0.2160954281909282
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 76,
+            "status": "healthy",
+            "position": [
+                6.0,
+                235.0
+            ],
+            "velocity": [
+                -0.9554128445606913,
+                -0.6433435457732595
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 77,
+            "status": "healthy",
+            "position": [
+                719.0,
+                502.0
+            ],
+            "velocity": [
+                -0.35296323601188817,
+                -0.8750569700852888
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 78,
+            "status": "healthy",
+            "position": [
+                715.0,
+                306.0
+            ],
+            "velocity": [
+                0.16309888459130661,
+                0.47718583651997415
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 79,
+            "status": "healthy",
+            "position": [
+                239.0,
+                738.0
+            ],
+            "velocity": [
+                0.691565489750207,
+                -0.31381165652381493
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 80,
+            "status": "healthy",
+            "position": [
+                788.0,
+                497.0
+            ],
+            "velocity": [
+                0.6416293334552106,
+                -0.6184554407098242
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 81,
+            "status": "healthy",
+            "position": [
+                269.0,
+                608.0
+            ],
+            "velocity": [
+                -0.9118017706404085,
+                0.1072191649035028
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 82,
+            "status": "healthy",
+            "position": [
+                549.0,
+                727.0
+            ],
+            "velocity": [
+                0.8203316888480401,
+                0.6880753991339761
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 83,
+            "status": "healthy",
+            "position": [
+                368.0,
+                110.0
+            ],
+            "velocity": [
+                0.7395411187793581,
+                0.18465496292345485
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 84,
+            "status": "healthy",
+            "position": [
+                291.0,
+                210.0
+            ],
+            "velocity": [
+                0.6848951611643848,
+                0.30766871521510275
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 85,
+            "status": "healthy",
+            "position": [
+                685.0,
+                151.0
+            ],
+            "velocity": [
+                -0.801809864924018,
+                -0.0467616612288102
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 86,
+            "status": "healthy",
+            "position": [
+                638.0,
+                394.0
+            ],
+            "velocity": [
+                0.5237539832800528,
+                -0.40716426280207174
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 87,
+            "status": "healthy",
+            "position": [
+                39.0,
+                138.0
+            ],
+            "velocity": [
+                -0.9632187986300607,
+                0.9024852729140982
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 88,
+            "status": "healthy",
+            "position": [
+                6.0,
+                676.0
+            ],
+            "velocity": [
+                0.49027333142679796,
+                -0.42923557940761503
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 89,
+            "status": "healthy",
+            "position": [
+                262.0,
+                791.0
+            ],
+            "velocity": [
+                0.8031854464651125,
+                0.4421082709685571
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 90,
+            "status": "healthy",
+            "position": [
+                169.0,
+                208.0
+            ],
+            "velocity": [
+                0.4332710856957904,
+                -0.997716171951422
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 91,
+            "status": "healthy",
+            "position": [
+                104.0,
+                663.0
+            ],
+            "velocity": [
+                0.27353225119745805,
+                -0.4078671224954271
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 92,
+            "status": "healthy",
+            "position": [
+                713.0,
+                357.0
+            ],
+            "velocity": [
+                -0.8879463198333897,
+                -0.9169962740020028
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 93,
+            "status": "healthy",
+            "position": [
+                68.0,
+                247.0
+            ],
+            "velocity": [
+                -0.3974054372384028,
+                0.7971307407176167
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 94,
+            "status": "healthy",
+            "position": [
+                797.0,
+                241.0
+            ],
+            "velocity": [
+                -0.5932846634758908,
+                -0.4362675341462805
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 95,
+            "status": "healthy",
+            "position": [
+                144.0,
+                191.0
+            ],
+            "velocity": [
+                0.8939786398622109,
+                -0.6904888858624323
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 96,
+            "status": "healthy",
+            "position": [
+                236.0,
+                479.0
+            ],
+            "velocity": [
+                0.11238276343089248,
+                -0.13538622174150539
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 97,
+            "status": "healthy",
+            "position": [
+                23.0,
+                637.0
+            ],
+            "velocity": [
+                0.1856661775989068,
+                0.6873997555948188
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 98,
+            "status": "healthy",
+            "position": [
+                540.0,
+                714.0
+            ],
+            "velocity": [
+                0.07289769942263935,
+                -0.9013567376520784
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        },
+        {
+            "id": 99,
+            "status": "healthy",
+            "position": [
+                68.0,
+                239.0
+            ],
+            "velocity": [
+                -0.20669867318798985,
+                0.593223086216196
+            ],
+            "infection_timer": 0,
+            "infection_type": null
+        }
+    ],
+    "edges": [
+        [
+            0,
+            99
+        ],
+        [
+            0,
+            2
+        ],
+        [
+            0,
+            98
+        ],
+        [
+            0,
+            28
+        ],
+        [
+            1,
+            2
+        ],
+        [
+            1,
+            3
+        ],
+        [
+            1,
+            99
+        ],
+        [
+            2,
+            4
+        ],
+        [
+            2,
+            92
+        ],
+        [
+            3,
+            4
+        ],
+        [
+            3,
+            5
+        ],
+        [
+            4,
+            5
+        ],
+        [
+            4,
+            6
+        ],
+        [
+            4,
+            52
+        ],
+        [
+            5,
+            6
+        ],
+        [
+            5,
+            7
+        ],
+        [
+            6,
+            7
+        ],
+        [
+            6,
+            8
+        ],
+        [
+            7,
+            8
+        ],
+        [
+            7,
+            9
+        ],
+        [
+            7,
+            42
+        ],
+        [
+            8,
+            9
+        ],
+        [
+            8,
+            10
+        ],
+        [
+            9,
+            10
+        ],
+        [
+            9,
+            11
+        ],
+        [
+            10,
+            11
+        ],
+        [
+            10,
+            12
+        ],
+        [
+            11,
+            13
+        ],
+        [
+            11,
+            32
+        ],
+        [
+            12,
+            13
+        ],
+        [
+            12,
+            14
+        ],
+        [
+            13,
+            15
+        ],
+        [
+            13,
+            34
+        ],
+        [
+            13,
+            23
+        ],
+        [
+            14,
+            15
+        ],
+        [
+            14,
+            16
+        ],
+        [
+            15,
+            16
+        ],
+        [
+            15,
+            17
+        ],
+        [
+            16,
+            17
+        ],
+        [
+            16,
+            18
+        ],
+        [
+            17,
+            18
+        ],
+        [
+            17,
+            19
+        ],
+        [
+            18,
+            45
+        ],
+        [
+            18,
+            30
+        ],
+        [
+            19,
+            20
+        ],
+        [
+            19,
+            21
+        ],
+        [
+            20,
+            22
+        ],
+        [
+            20,
+            79
+        ],
+        [
+            21,
+            22
+        ],
+        [
+            21,
+            23
+        ],
+        [
+            22,
+            23
+        ],
+        [
+            22,
+            24
+        ],
+        [
+            23,
+            25
+        ],
+        [
+            24,
+            25
+        ],
+        [
+            24,
+            26
+        ],
+        [
+            25,
+            27
+        ],
+        [
+            25,
+            95
+        ],
+        [
+            26,
+            27
+        ],
+        [
+            26,
+            28
+        ],
+        [
+            26,
+            89
+        ],
+        [
+            27,
+            28
+        ],
+        [
+            27,
+            29
+        ],
+        [
+            28,
+            29
+        ],
+        [
+            28,
+            30
+        ],
+        [
+            28,
+            65
+        ],
+        [
+            29,
+            30
+        ],
+        [
+            29,
+            31
+        ],
+        [
+            30,
+            31
+        ],
+        [
+            30,
+            32
+        ],
+        [
+            31,
+            32
+        ],
+        [
+            31,
+            60
+        ],
+        [
+            32,
+            33
+        ],
+        [
+            32,
+            34
+        ],
+        [
+            33,
+            34
+        ],
+        [
+            33,
+            35
+        ],
+        [
+            34,
+            35
+        ],
+        [
+            34,
+            36
+        ],
+        [
+            35,
+            36
+        ],
+        [
+            35,
+            37
+        ],
+        [
+            36,
+            37
+        ],
+        [
+            36,
+            38
+        ],
+        [
+            37,
+            38
+        ],
+        [
+            37,
+            39
+        ],
+        [
+            38,
+            39
+        ],
+        [
+            38,
+            40
+        ],
+        [
+            39,
+            40
+        ],
+        [
+            39,
+            41
+        ],
+        [
+            40,
+            41
+        ],
+        [
+            40,
+            42
+        ],
+        [
+            41,
+            42
+        ],
+        [
+            41,
+            43
+        ],
+        [
+            42,
+            44
+        ],
+        [
+            42,
+            56
+        ],
+        [
+            43,
+            44
+        ],
+        [
+            43,
+            45
+        ],
+        [
+            44,
+            45
+        ],
+        [
+            44,
+            46
+        ],
+        [
+            45,
+            46
+        ],
+        [
+            45,
+            76
+        ],
+        [
+            45,
+            71
+        ],
+        [
+            46,
+            47
+        ],
+        [
+            46,
+            48
+        ],
+        [
+            47,
+            48
+        ],
+        [
+            47,
+            49
+        ],
+        [
+            48,
+            49
+        ],
+        [
+            48,
+            50
+        ],
+        [
+            49,
+            50
+        ],
+        [
+            49,
+            51
+        ],
+        [
+            50,
+            51
+        ],
+        [
+            50,
+            52
+        ],
+        [
+            51,
+            52
+        ],
+        [
+            51,
+            53
+        ],
+        [
+            52,
+            53
+        ],
+        [
+            53,
+            54
+        ],
+        [
+            53,
+            77
+        ],
+        [
+            54,
+            55
+        ],
+        [
+            54,
+            56
+        ],
+        [
+            55,
+            56
+        ],
+        [
+            55,
+            57
+        ],
+        [
+            56,
+            57
+        ],
+        [
+            57,
+            58
+        ],
+        [
+            57,
+            59
+        ],
+        [
+            58,
+            59
+        ],
+        [
+            58,
+            60
+        ],
+        [
+            59,
+            60
+        ],
+        [
+            59,
+            71
+        ],
+        [
+            60,
+            61
+        ],
+        [
+            60,
+            62
+        ],
+        [
+            61,
+            62
+        ],
+        [
+            61,
+            63
+        ],
+        [
+            61,
+            70
+        ],
+        [
+            62,
+            63
+        ],
+        [
+            62,
+            64
+        ],
+        [
+            63,
+            64
+        ],
+        [
+            63,
+            65
+        ],
+        [
+            64,
+            65
+        ],
+        [
+            64,
+            66
+        ],
+        [
+            65,
+            85
+        ],
+        [
+            66,
+            67
+        ],
+        [
+            66,
+            68
+        ],
+        [
+            67,
+            68
+        ],
+        [
+            67,
+            69
+        ],
+        [
+            68,
+            69
+        ],
+        [
+            68,
+            70
+        ],
+        [
+            69,
+            70
+        ],
+        [
+            69,
+            71
+        ],
+        [
+            70,
+            72
+        ],
+        [
+            71,
+            72
+        ],
+        [
+            71,
+            73
+        ],
+        [
+            72,
+            73
+        ],
+        [
+            72,
+            74
+        ],
+        [
+            73,
+            74
+        ],
+        [
+            73,
+            75
+        ],
+        [
+            74,
+            75
+        ],
+        [
+            74,
+            76
+        ],
+        [
+            75,
+            76
+        ],
+        [
+            75,
+            77
+        ],
+        [
+            76,
+            78
+        ],
+        [
+            77,
+            78
+        ],
+        [
+            77,
+            79
+        ],
+        [
+            78,
+            79
+        ],
+        [
+            78,
+            80
+        ],
+        [
+            79,
+            80
+        ],
+        [
+            79,
+            81
+        ],
+        [
+            80,
+            81
+        ],
+        [
+            80,
+            82
+        ],
+        [
+            80,
+            92
+        ],
+        [
+            81,
+            82
+        ],
+        [
+            81,
+            83
+        ],
+        [
+            82,
+            83
+        ],
+        [
+            82,
+            84
+        ],
+        [
+            83,
+            84
+        ],
+        [
+            83,
+            85
+        ],
+        [
+            84,
+            85
+        ],
+        [
+            84,
+            86
+        ],
+        [
+            85,
+            86
+        ],
+        [
+            85,
+            87
+        ],
+        [
+            86,
+            87
+        ],
+        [
+            86,
+            88
+        ],
+        [
+            87,
+            89
+        ],
+        [
+            87,
+            97
+        ],
+        [
+            88,
+            89
+        ],
+        [
+            88,
+            90
+        ],
+        [
+            89,
+            90
+        ],
+        [
+            90,
+            91
+        ],
+        [
+            90,
+            92
+        ],
+        [
+            91,
+            92
+        ],
+        [
+            91,
+            93
+        ],
+        [
+            92,
+            93
+        ],
+        [
+            93,
+            94
+        ],
+        [
+            93,
+            95
+        ],
+        [
+            94,
+            95
+        ],
+        [
+            94,
+            96
+        ],
+        [
+            95,
+            96
+        ],
+        [
+            95,
+            97
+        ],
+        [
+            96,
+            97
+        ],
+        [
+            96,
+            98
+        ],
+        [
+            97,
+            98
+        ],
+        [
+            97,
+            99
+        ],
+        [
+            98,
+            99
+        ]
+    ]
+}
