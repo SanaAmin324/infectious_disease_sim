@@ -4,7 +4,7 @@ import random
 import json
 import os
 
-def generate_social_network(num_nodes=100, k=4, rewiring_prob=0.1, area_size=800):
+def generate_social_network(num_nodes=4000, k=4, rewiring_prob=0.1, area_size=800):
     """
     Generates a Watts-Strogatz small-world network and assigns physical properties to each node.
     """
