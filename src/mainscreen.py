@@ -16,10 +16,9 @@ class StateManager:
             self.current = ComparisonSimulationState(self.screen, policy)
 
     def handle_event(self, event):
-     result = self.current.handle_event(event)
-     if result == "menu":
-        self.current = MenuState(self.screen, self.start_simulation)
-
+        result = self.current.handle_event(event)
+        if result == "menu":
+            self.current = MenuState(self.screen, self.start_simulation)
 
     def update(self):
         self.current.update()
@@ -29,7 +28,9 @@ class StateManager:
 
 def main():
     pygame.init()
-    screen = pygame.display.set_mode((1000, 800))
+
+    # Use pygame.RESIZABLE to allow resizing
+    screen = pygame.display.set_mode((1000, 800), pygame.RESIZABLE)
     pygame.display.set_caption("Disease Simulation")
 
     manager = StateManager(screen)
@@ -39,10 +40,16 @@ def main():
         for event in pygame.event.get():
             if event.type == pygame.QUIT:
                 running = False
+            if event.type == pygame.VIDEORESIZE:  # Handle window resizing
+                # Update screen size when resized
+                screen = pygame.display.set_mode((event.w, event.h), pygame.RESIZABLE)
+                manager.screen = screen  # Update manager screen reference to new size
             manager.handle_event(event)
 
         manager.update()
         manager.draw()
+
+        pygame.display.flip()  # Make sure to flip the screen to update
 
     pygame.quit()
 
