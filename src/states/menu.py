@@ -150,10 +150,11 @@ class MenuState:
         # Dropdown with policies
         self.policies = [
             "Standard Simulation",
+            "No Measures",
+            "Social Distancing",
+            "Mask Wearing",
             "Lockdown",
-            "Vaccination",
-            "Restrict Gatherings",
-            "Enhanced Hygiene"
+            "Vaccination"
         ]
         self.dropdown = Dropdown(self.width // 2 - 150, 300, 300, 40, self.policies)
 

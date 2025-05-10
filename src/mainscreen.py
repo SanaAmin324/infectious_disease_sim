@@ -10,10 +10,8 @@ class StateManager:
         self.current = MenuState(screen, self.start_simulation)
 
     def start_simulation(self, policy):
-        if policy == "standard_simulation":
-            self.current = StandardSimulationState(self.screen)
-        else:
-            self.current = ComparisonSimulationState(self.screen, policy)
+        # All scenarios will use StandardSimulationState but with different parameters
+        self.current = StandardSimulationState(self.screen, policy)
 
     def handle_event(self, event):
         result = self.current.handle_event(event)
